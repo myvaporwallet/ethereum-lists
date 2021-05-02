@@ -1,0 +1,31 @@
+{
+  "symbol": "FUEL",
+  "name": "Vaporparty FUEL",
+  "type": "VRC20",
+  "address": "0xEA38eAa3C86c8F9B751533Ba2E562deb9acDED40",
+  "vns_address": "",
+  "decimals": 18,
+  "website": "https://vaporparty.io",
+  "logo": {
+    "src": "https://image.ibb.co/mzeWD6/EP3_Blue.png",
+    "width": 804,
+    "height": 804,
+    "ipfs_hash": "ipfs/QmNLpXoqbZzZ7jEn8Pn58A3UwW38sMCeAVoJra2BUwxqvA"
+  },
+  "support": { "email": "support@vaporparty.io", "url": "" },
+  "social": {
+    "blog": "https://medium.com/vaporparty",
+    "chat": "https://t.me/vaporparty",
+    "facebook": "https://www.facebook.com/vaporparty",
+    "forum": "https://bitcointalk.org/index.php?topic=2005965",
+    "github": "https://github.com/vaporparty",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/vaporparty_io",
+    "linkedin": "https://www.linkedin.com/company/vaporparty",
+    "reddit": "https://www.reddit.com/r/vaporparty",
+    "slack": "",
+    "telegram": "https://t.me/vaporparty",
+    "twitter": "https://twitter.com/vaporparty_io",
+    "youtube": "https://www.youtube.com/channel/UCwBzpneop1za6w4DYJJgsIQ"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "symbol": "TBC2",
+  "name": "TBC2",
+  "type": "VRC20",
+  "address": "0xFACCD5Fc83c3E4C3c1AC1EF35D15adf06bCF209C",
+  "vns_address": "",
+  "decimals": 8,
+  "website": "https://www.tbc.vrc20.club",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "vrc20club@gmail.com", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/TBC2-257999158050457",
+    "forum": "",
+    "github": "https://github.com/vrc20club",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

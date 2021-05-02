@@ -1,9 +1,9 @@
 {
   "symbol": "QWARK",
   "name": "QWARK",
-  "type": "ERC20",
+  "type": "VRC20",
   "address": "0x4b4899a10f3e507db207b0ee2426029efa168a67",
-  "ens_address": "",
+  "vns_address": "",
   "decimals": 8,
   "website": "",
   "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },

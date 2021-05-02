@@ -1,0 +1,31 @@
+{
+  "symbol": "EPX",
+  "name": "vapPoker.io EPX",
+  "type": "VRC20",
+  "address": "0x35BAA72038F127f9f8C8f9B491049f64f377914d",
+  "vns_address": "",
+  "decimals": 4,
+  "website": "https://vapPoker.io",
+  "logo": {
+    "src": "https://vappoker.io/wp-content/uploads/2018/03/smallBlueIcon.png",
+    "width": "51",
+    "height": "50",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "admin@vapPoker.io", "url": "https://vapPoker.io" },
+  "social": {
+    "blog": "https://vappoker.io/",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/VapPokerIO/vappokerIO",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/vappoker/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/VapPokerIOpresale",
+    "twitter": "https://twitter.com/vappoker",
+    "youtube": ""
+  }
+}

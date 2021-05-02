@@ -1,0 +1,26 @@
+{
+  "symbol": "EMONT",
+  "name": "Vaporemon Token",
+  "type": "VRC20",
+  "address": "0x95daaab98046846bf4b2853e23cba236fa394a31",
+  "vns_address": "",
+  "decimals": 8,
+  "website": "https://www.vaporemon.com",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "contact@vaporemon.com", "url": "" },
+  "social": {
+    "blog": "https://medium.com/@myvaporemon",
+    "chat": "",
+    "facebook": "https://www.facebook.com/vaporemon",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/vaporemon",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/myvaporemon",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "symbol": "ETG",
+  "name": "Vapory Gold",
+  "type": "VRC20",
+  "address": "0x28c8d01ff633ea9cd8fc6a451d7457889e698de6",
+  "vns_address": "",
+  "decimals": 0,
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

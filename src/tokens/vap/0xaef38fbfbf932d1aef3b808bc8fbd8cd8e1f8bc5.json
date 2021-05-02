@@ -1,0 +1,26 @@
+{
+  "symbol": "CRB",
+  "name": "CRB",
+  "type": "VRC20",
+  "address": "0xAef38fBFBF932D1AeF3B808Bc8fBd8Cd8E1f8BC5",
+  "vns_address": "",
+  "decimals": 8,
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

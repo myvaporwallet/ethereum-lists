@@ -1,9 +1,9 @@
 {
   "symbol": "DOT",
   "name": "DOT",
-  "type": "ERC20",
+  "type": "VRC20",
   "address": "0x94ad7e41c1d44022c4f47cb1ba019fd1a022c536",
-  "ens_address": "",
+  "vns_address": "",
   "decimals": 8,
   "website": "",
   "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },

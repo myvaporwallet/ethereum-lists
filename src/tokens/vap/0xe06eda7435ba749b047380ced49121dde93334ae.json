@@ -1,0 +1,26 @@
+{
+  "symbol": "SET",
+  "name": "SET",
+  "type": "VRC20",
+  "address": "0xe06eda7435ba749b047380ced49121dde93334ae",
+  "vns_address": "",
+  "decimals": 0,
+  "website": "http://sydvap.com",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/SydVapory/meetup-token#meetup-token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://chat.sydvap.com",
+    "twitter": "https://twitter.com/sydvapory",
+    "youtube": ""
+  }
+}

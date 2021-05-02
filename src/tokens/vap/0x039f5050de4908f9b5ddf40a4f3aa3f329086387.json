@@ -1,0 +1,31 @@
+{
+  "symbol": "ENC",
+  "name": "Vapornet.Cash",
+  "type": "VRC20",
+  "address": "0x039f5050de4908f9b5ddf40a4f3aa3f329086387",
+  "vns_address": "",
+  "decimals": 18,
+  "website": "https://vapornet.cash",
+  "logo": {
+    "src": "https://vapornet.cash/images/logo28x28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "contact@vapornet.cash", "url": "" },
+  "social": {
+    "blog": "https://medium.com/@vapornetcash",
+    "chat": "",
+    "facebook": "https://fb.me/vapornetcash.official",
+    "forum": "",
+    "github": "https://github.com/vapornetcash",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/vapornetcash",
+    "twitter": "https://twitter.com/vapornetcash",
+    "youtube": ""
+  }
+}

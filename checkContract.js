@@ -1,5 +1,5 @@
 const fs = require('fs');
-const web3 = require('web3');
+const web3 = require('@vapory/web3');
 const path = require('path');
 const contractsDirectory = './src/contracts';
 const validate = require('validate.js');

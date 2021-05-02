@@ -1,0 +1,26 @@
+{
+  "symbol": "ETBS",
+  "name": "Vapbits",
+  "type": "VRC20",
+  "address": "0x1b9743f556d65e757c4c650b4555baf354cb8bd3",
+  "vns_address": "",
+  "decimals": 12,
+  "website": "https://www.vapbits.com",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "mr@vapbits.com", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/VapBitsChatroom",
+    "twitter": "https://twitter.com/vapbits",
+    "youtube": ""
+  }
+}

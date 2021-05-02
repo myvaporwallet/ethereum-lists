@@ -1,0 +1,31 @@
+{
+  "symbol": "DTH",
+  "name": "dvapor",
+  "type": "VRC20",
+  "address": "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190",
+  "vns_address": "",
+  "decimals": 18,
+  "website": "https://dvapor.io",
+  "logo": {
+    "src": "https://ipfs.io/ipfs/QmTbnd1okDoU188cLCFvZorxWgfVHdoLwwnLKxkJJFcncv",
+    "width": "349",
+    "height": "349",
+    "ipfs_hash": "QmTbnd1okDoU188cLCFvZorxWgfVHdoLwwnLKxkJJFcncv"
+  },
+  "support": { "email": "support@dvapor.io", "url": "https://dvapor.io" },
+  "social": {
+    "blog": "https://medium.com/@DVAPOR",
+    "chat": "https://t.me/joinchat/GkdUjUQ4jx_Apxmz2km4ww",
+    "facebook": "https://www.facebook.com/dvapor.io/",
+    "forum": "https://medium.com/@DVAPOR",
+    "github": "https://github.com/dvaportech",
+    "gitter": "https://gitter.im/dvapor-js",
+    "instagram": "https://www.instagram.com/dvapor.io/",
+    "linkedin": "https://www.linkedin.com/company/dvapor-io/",
+    "reddit": "https://www.reddit.com/r/Dvapor/",
+    "slack": "https://dvapor.slack.com/messages/C4HEL2KLK/details/",
+    "telegram": "https://t.me/joinchat/GkdUjUQ4jx_Apxmz2km4ww",
+    "twitter": "https://twitter.com/dvapor_io",
+    "youtube": "https://www.youtube.com/channel/UCXkA5w4KdpnBMeIsu62ZS8w"
+  }
+}

@@ -1,9 +1,9 @@
 {
   "symbol": "TOPM",
   "name": "TOPM",
-  "type": "ERC20",
+  "type": "VRC20",
   "address": "0x0146b9dcd9fb2abc1b5b136c28d20d0037526961",
-  "ens_address": "",
+  "vns_address": "",
   "decimals": 18,
   "website": "",
   "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },

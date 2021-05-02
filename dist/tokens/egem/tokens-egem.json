@@ -2,9 +2,9 @@
   {
     "symbol": "BURNER",
     "name": "BURNER",
-    "type": "ERC20",
+    "type": "VRC20",
     "address": "0x0000000000000000000000000000000000000000",
-    "ens_address": "",
+    "vns_address": "",
     "decimals": 0,
     "website": "",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },

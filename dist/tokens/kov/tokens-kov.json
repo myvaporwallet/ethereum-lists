@@ -2,9 +2,9 @@
   {
     "symbol": "Aeternity",
     "name": "Aeternity",
-    "type": "ERC20",
+    "type": "VRC20",
     "address": "0x8667559254241ddeD4d11392f868d72092765367",
-    "ens_address": "",
+    "vns_address": "",
     "decimals": 18,
     "website": "",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
@@ -28,9 +28,9 @@
   {
     "symbol": "GUP",
     "name": "GUP",
-    "type": "ERC20",
+    "type": "VRC20",
     "address": "0x3C67f7D4decF7795225f51b54134F81137385f83",
-    "ens_address": "",
+    "vns_address": "",
     "decimals": 3,
     "website": "",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },

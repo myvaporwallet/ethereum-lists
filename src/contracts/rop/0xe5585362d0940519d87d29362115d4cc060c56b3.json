@@ -126,7 +126,7 @@
         { "name": "token", "type": "address" },
         { "name": "amount", "type": "uint256" }
       ],
-      "name": "emergencyERC20Drain",
+      "name": "emergencyVRC20Drain",
       "outputs": [],
       "payable": false,
       "type": "function"

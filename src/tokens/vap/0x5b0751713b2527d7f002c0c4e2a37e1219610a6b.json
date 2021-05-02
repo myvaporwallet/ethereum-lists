@@ -1,0 +1,31 @@
+{
+  "symbol": "HORSE",
+  "name": "HORSE",
+  "type": "VRC20",
+  "address": "0x5B0751713b2527d7f002c0c4e2a37e1219610A6B",
+  "vns_address": "",
+  "decimals": 18,
+  "website": "https://vaporse.com",
+  "logo": {
+    "src": "https://vaporse.com/images/vaporse-logo.png",
+    "width": "480",
+    "height": "695",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "support@vaporse.com", "url": "" },
+  "social": {
+    "blog": "https://medium.com/@vaporse",
+    "chat": "https://discordapp.com/invite/vdTXRmT",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=2573978.0",
+    "github": "https://github.com/vaporse",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/Vaporse/",
+    "slack": "",
+    "telegram": "https://telegram.me/vaporse",
+    "twitter": "https://twitter.com/VaporseTeam",
+    "youtube": "https://www.youtube.com/channel/UC2lOnpQUPVE13E_Mpp5TVsA"
+  }
+}

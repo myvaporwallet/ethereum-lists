@@ -1,0 +1,26 @@
+{
+  "symbol": "DICE",
+  "name": "Vaporoll",
+  "type": "VRC20",
+  "address": "0x2e071D2966Aa7D8dECB1005885bA1977D6038A65",
+  "vns_address": "",
+  "decimals": 16,
+  "website": "https://vaporoll.com",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/vaporoll",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

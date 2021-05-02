@@ -1,9 +1,9 @@
 {
   "symbol": "TOMO",
   "name": "TOMO",
-  "type": "ERC20",
+  "type": "VRC20",
   "address": "0x8b353021189375591723e7384262f45709a3c3dc",
-  "ens_address": "",
+  "vns_address": "",
   "decimals": 18,
   "website": "",
   "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },

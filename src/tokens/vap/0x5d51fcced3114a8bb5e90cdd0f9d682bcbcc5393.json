@@ -1,0 +1,26 @@
+{
+  "symbol": "B2BX",
+  "name": "B2BX",
+  "type": "VRC20",
+  "address": "0x5d51fcced3114a8bb5e90cdd0f9d682bcbcc5393",
+  "vns_address": "",
+  "decimals": 18,
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

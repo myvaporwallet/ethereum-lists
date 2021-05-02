@@ -1,0 +1,26 @@
+{
+  "symbol": "UCASH",
+  "name": "UCASH",
+  "type": "VRC20",
+  "address": "0x92e52a1a235d9a103d970901066ce910aacefd37",
+  "vns_address": "",
+  "decimals": 8,
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

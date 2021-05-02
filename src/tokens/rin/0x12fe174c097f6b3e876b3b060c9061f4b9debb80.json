@@ -1,9 +1,9 @@
 {
   "symbol": "PPD",
   "name": "PP Donation",
-  "type": "ERC20",
+  "type": "VRC20",
   "address": "0x12fE174C097F6B3e876B3b060C9061F4B9dEBB80",
-  "ens_address": "",
+  "vns_address": "",
   "decimals": 18,
   "website": "",
   "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },

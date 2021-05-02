@@ -1,9 +1,9 @@
 {
-  "name": "ethereum-lists",
+  "name": "vapory-lists",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MyEtherWallet/ethereum-lists.git"
+    "url": "git+https://github.com/MyVaporWallet/vapory-lists.git"
   },
   "scripts": {
     "lint": "prettier --config ./.prettierrc --ignore-path ./.prettierignore --write '{src,dist}/**/*.json' '!{dist}/**/**/*.min.json' './{js,json}' '!./node_modules'",
@@ -15,14 +15,14 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MyEtherWallet/ethereum-lists/issues"
+    "url": "https://github.com/MyVaporWallet/vapory-lists/issues"
   },
-  "homepage": "https://github.com/MyEtherWallet/ethereum-lists#readme",
+  "homepage": "https://github.com/MyVaporWallet/vapory-lists#readme",
   "devDependencies": {
     "eslint-plugin-json": "^1.2.1",
     "husky": "^0.14.3",
     "pretty-quick": "^1.6.0",
-    "web3": "^1.0.0-beta.36"
+    "@vapory/web3": "^1.0.0-delta.30"
   },
   "dependencies": {
     "prettier": "^1.14.2",

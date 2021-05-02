@@ -1,9 +1,9 @@
 {
   "symbol": "BHNT",
   "name": "Berlin Hack&Tell winner token",
-  "type": "ERC20",
+  "type": "VRC20",
   "address": "0xe27826eE778B6F78a49a686dA7D64f6E7b084a4f",
-  "ens_address": "",
+  "vns_address": "",
   "decimals": 0,
   "website": "http://berlin.hackandtell.org",
   "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },

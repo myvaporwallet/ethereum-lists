@@ -61,7 +61,7 @@
       {
         "constant": true,
         "inputs": [],
-        "name": "tokenRateEther",
+        "name": "tokenRateVapor",
         "outputs": [{ "name": "", "type": "uint256" }],
         "payable": false,
         "stateMutability": "view",
@@ -154,7 +154,7 @@
       {
         "constant": false,
         "inputs": [
-          { "name": "toTransferETHER", "type": "address" },
+          { "name": "toTransferVAPOR", "type": "address" },
           { "name": "microToken", "type": "uint256" },
           { "name": "SellDeposit", "type": "bool" }
         ],
@@ -353,7 +353,7 @@
         "inputs": [
           {
             "indexed": false,
-            "name": "PriceVipAccountMicroEther",
+            "name": "PriceVipAccountMicroVapor",
             "type": "uint256"
           },
           {
@@ -393,7 +393,7 @@
       {
         "anonymous": false,
         "inputs": [
-          { "indexed": false, "name": "microETHER", "type": "uint256" }
+          { "indexed": false, "name": "microVAPOR", "type": "uint256" }
         ],
         "name": "TokenSellingRate",
         "type": "event"

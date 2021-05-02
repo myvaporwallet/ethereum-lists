@@ -1,9 +1,9 @@
 {
   "symbol": "*PLASMA",
   "name": "*PLASMA",
-  "type": "ERC20",
+  "type": "VRC20",
   "address": "0x95D7321EdCe519419ba1DbC60A89bAfbF55EAC0D",
-  "ens_address": "",
+  "vns_address": "",
   "decimals": 6,
   "website": "",
   "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },

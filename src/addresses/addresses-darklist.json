@@ -336,7 +336,7 @@
   },
   {
     "address": "0x379ce20c018fb6301c1872c429ec7270ffa4dc5b",
-    "comment": "malicious - same as ethereumchest",
+    "comment": "malicious - same as vaporychest",
     "date": "2018-03-12"
   },
   {
@@ -491,7 +491,7 @@
   },
   {
     "address": "0x1de23F02E185fDc4f6BACc98D6c6419370E38538",
-    "comment": "Fake Etherscan site for a fake Monetha ICO address",
+    "comment": "Fake Vaporscan site for a fake Monvapa ICO address",
     "date": "2018-03-12"
   },
   {
@@ -1181,7 +1181,7 @@
   },
   {
     "address": "0xE10270BFb1eD82E120BfC392efb3C94a1604DeD6",
-    "comment": "Fake EtherDelta",
+    "comment": "Fake VaporDelta",
     "date": "2018-03-12"
   },
   {
@@ -1256,7 +1256,7 @@
   },
   {
     "address": "0x6AF114154A8850B1c54d48bD9103BDCdB420611B",
-    "comment": "Fake Sether crowdsale site",
+    "comment": "Fake Svapor crowdsale site",
     "date": "2018-03-12"
   },
   {
@@ -1266,7 +1266,7 @@
   },
   {
     "address": "0xf33068d5e798f6519349Ce32669D1EC940Db1193",
-    "comment": "Etherzero chain split but need to send coins to this address to buy the new coins - does not add up.",
+    "comment": "Vaporzero chain split but need to send coins to this address to buy the new coins - does not add up.",
     "date": "2018-03-12"
   },
   {
@@ -1291,7 +1291,7 @@
   },
   {
     "address": "0xC1dD8Ac971129C8C08333924F58Ff40a50b8bb9a",
-    "comment": "Fake Etherzero wallet site asking for ETH to be sent to an address",
+    "comment": "Fake Vaporzero wallet site asking for VAP to be sent to an address",
     "date": "2018-03-12"
   },
   {
@@ -1316,7 +1316,7 @@
   },
   {
     "address": "0xc0fed35b43f59c2bfb1eb544bd8921bfb18140c2",
-    "comment": "Fake ETH web-wallet",
+    "comment": "Fake VAP web-wallet",
     "date": "2018-03-12"
   },
   {
@@ -1326,12 +1326,12 @@
   },
   {
     "address": "0xac3800002e45ed2e1a55dedfa2aca137f6dba61e",
-    "comment": "Etherzero domain, but nothing supporting it being the legit domain. Also hosted on a server used before to host other phishing campaigns. Asking for your chain code.",
+    "comment": "Vaporzero domain, but nothing supporting it being the legit domain. Also hosted on a server used before to host other phishing campaigns. Asking for your chain code.",
     "date": "2018-03-12"
   },
   {
     "address": "0x1c39d6E0278D1A28Ce21DBD73826559b010224E5",
-    "comment": "Fake Sether crowdsale site",
+    "comment": "Fake Svapor crowdsale site",
     "date": "2018-03-12"
   },
   {
@@ -1486,7 +1486,7 @@
   },
   {
     "address": "0xbb53be0690ae7256833099a1f01125eb33445692",
-    "comment": "Fake EtherDelta Andriod app, phishing for private keys",
+    "comment": "Fake VaporDelta Andriod app, phishing for private keys",
     "date": "2018-03-12"
   },
   {
@@ -1511,7 +1511,7 @@
   },
   {
     "address": "0xdafc2a2d4e070f863cfcb5887bc2516e05e18877",
-    "comment": "Fake MyEtherWallet",
+    "comment": "Fake MyVaporWallet",
     "date": "2018-03-12"
   },
   {
@@ -1521,62 +1521,62 @@
   },
   {
     "address": "0x5d82db63cf0c54d47006d416bdc7dab09ea2f3f1",
-    "comment": "Trust trading 0.1ETH for 2ETH",
+    "comment": "Trust trading 0.1VAP for 2VAP",
     "date": "2018-03-12"
   },
   {
     "address": "0xA82C7c0Ef05080463E4ac55DB8b8531007f3A66C",
-    "comment": "Trust trading 0.1ETH for 2ETH",
+    "comment": "Trust trading 0.1VAP for 2VAP",
     "date": "2018-03-12"
   },
   {
     "address": "0xdcd2fb1c1b103c5a591e76798704cfaa27baf6b9",
-    "comment": "Trust trading 0.1ETH for 2ETH",
+    "comment": "Trust trading 0.1VAP for 2VAP",
     "date": "2018-03-12"
   },
   {
     "address": "0x5efb7d2ab258b18c8166b0c74fc4117716e52515",
-    "comment": "Trust trading 0.1ETH for 2ETH",
+    "comment": "Trust trading 0.1VAP for 2VAP",
     "date": "2018-03-12"
   },
   {
     "address": "0x414bca672494b8f078112c52ae258f9e8de1a4a0",
-    "comment": "Trust trading 0.1ETH for 2ETH",
+    "comment": "Trust trading 0.1VAP for 2VAP",
     "date": "2018-03-12"
   },
   {
     "address": "0x3dfE9F7Af8864DF0b7Cc2a20430006fd1af8dA1a",
-    "comment": "Trust trading 0.1ETH for 2ETH",
+    "comment": "Trust trading 0.1VAP for 2VAP",
     "date": "2018-03-12"
   },
   {
     "address": "0x5B6D3d66E18Dfd31ed9A753C406963C401f356C0",
-    "comment": "Trust trading 0.1ETH for 2ETH",
+    "comment": "Trust trading 0.1VAP for 2VAP",
     "date": "2018-03-12"
   },
   {
     "address": "0xc8c3234Aea55a5F746b2aE585a849ba0BFa57785",
-    "comment": "Trust trading 0.1ETH for 2ETH",
+    "comment": "Trust trading 0.1VAP for 2VAP",
     "date": "2018-03-12"
   },
   {
     "address": "0x774148e22F021972bfe082e1548E5d9dC6e1D76E",
-    "comment": "Trust trading 0.1ETH for 2ETH",
+    "comment": "Trust trading 0.1VAP for 2VAP",
     "date": "2018-03-12"
   },
   {
     "address": "0xeeCC46A74ceA6133a12672bD62D5167877B4d521",
-    "comment": "Trust trading 0.1ETH for 2ETH",
+    "comment": "Trust trading 0.1VAP for 2VAP",
     "date": "2018-03-12"
   },
   {
     "address": "0xeeCC46A74ceA6133a12672bD62D5167877B4d521",
-    "comment": "Trust trading 0.1ETH for 2ETH",
+    "comment": "Trust trading 0.1VAP for 2VAP",
     "date": "2018-03-12"
   },
   {
     "address": "0xe5b913f91f2b90c5cd04d711e1eb3214c56dba98",
-    "comment": "Trust trading 0.1ETH for 2ETH",
+    "comment": "Trust trading 0.1VAP for 2VAP",
     "date": "2018-03-12"
   },
   {
@@ -1606,7 +1606,7 @@
   },
   {
     "address": "0x7bb386c33486fe345168d0af94bef03897e16022",
-    "comment": "Trust trading 0.1ETH for 2ETH",
+    "comment": "Trust trading 0.1VAP for 2VAP",
     "date": "2018-03-12"
   },
   {
@@ -2111,7 +2111,7 @@
   },
   {
     "address": "0xF2dcFa51F83e41c0e988477f939c7A5e5b9a6905",
-    "comment": "Fake Docai crowdsale site - see https://github.com/MetaMask/eth-phishing-detect/issues/1078",
+    "comment": "Fake Docai crowdsale site - see https://github.com/MetaMask/vap-phishing-detect/issues/1078",
     "date": "2018-03-12"
   },
   {
@@ -2146,7 +2146,7 @@
   },
   {
     "address": "0x3007a0Db9CAAD557CF4589Cfd550c21ce9399b15",
-    "comment": "Trust-Trading scam (looks like a fake ICO - send ETH and have a 92% chance of winning 100ETH - no contract address)",
+    "comment": "Trust-Trading scam (looks like a fake ICO - send VAP and have a 92% chance of winning 100VAP - no contract address)",
     "date": "2018-03-12"
   },
   {
@@ -2232,7 +2232,7 @@
   },
   {
     "address": "0x693D47204555361D4d51311f97102a1507559802",
-    "comment": "Fake ETH generator asking for funds to gas to send x eth to whatever address you want",
+    "comment": "Fake VAP generator asking for funds to gas to send x vap to whatever address you want",
     "date": "2018-03-12"
   },
   {
@@ -2897,7 +2897,7 @@
   },
   {
     "address": "0xcda5dd8e13fdae006b270769b1a18fa6c5524ce0",
-    "comment": "Phishing - Fake ETHLend tokensales",
+    "comment": "Phishing - Fake VAPLend tokensales",
     "date": "2017-11-28"
   },
   {
@@ -2912,7 +2912,7 @@
   },
   {
     "address": "0x6721b09f4fB6Fe69a14aDD6d1f2C1b94562e7801",
-    "comment": "MEW Phishing - xn--metherwallet-c06f.com",
+    "comment": "MEW Phishing - xn--mvaporwallet-c06f.com",
     "date": "2017-10-26"
   },
   {
@@ -3107,12 +3107,12 @@
   },
   {
     "address": "0x395b53a4EF9736d698E86607047267f7F640fe34",
-    "comment": "Pretending to be Bittrex support, giving advice on where to send funds on etherscan disqus (user: @disqus_9j8VnHO4sE)",
+    "comment": "Pretending to be Bittrex support, giving advice on where to send funds on vaporscan disqus (user: @disqus_9j8VnHO4sE)",
     "date": "2017-09-14"
   },
   {
     "address": "0x6ddfef85ecf643628254e5af7064e05b3c6b221e",
-    "comment": "Pretending to be Bittrex support, giving advice on where to send funds on etherscan disqus (user: @disqus_9j8VnHO4sE)",
+    "comment": "Pretending to be Bittrex support, giving advice on where to send funds on vaporscan disqus (user: @disqus_9j8VnHO4sE)",
     "date": "2017-09-14"
   },
   {
@@ -3122,12 +3122,12 @@
   },
   {
     "address": "0x48d0a447b1d7b9a89112578db4536032d3047b2e",
-    "comment": "Pretending to be Poloniex support on Etherscan Disqus (username: @poloniex) - asking for ETH to speed up support queries",
+    "comment": "Pretending to be Poloniex support on Vaporscan Disqus (username: @poloniex) - asking for VAP to speed up support queries",
     "date": "2017-09-13"
   },
   {
     "address": "0x40B942240fEc55473388Cbf7DBCC5482e64b4367",
-    "comment": "Pretending to be Coinbase support on Etherscan Disqus (username: @coinbasesupport) - asking for ETH to speed up support queries",
+    "comment": "Pretending to be Coinbase support on Vaporscan Disqus (username: @coinbasesupport) - asking for VAP to speed up support queries",
     "date": "2017-09-13"
   },
   {
@@ -3162,12 +3162,12 @@
   },
   {
     "address": "0xc38d14bf89e0001260bb349a006d7e491e5f43ad",
-    "comment": "Cloned decentraland site, phishing for ETH post ICO. - decentraland.pro",
+    "comment": "Cloned decentraland site, phishing for VAP post ICO. - decentraland.pro",
     "date": "2017-08-18"
   },
   {
     "address": "0x3B0009071A0a9983E9AAb537FD8c9ad478310Aeb",
-    "comment": "Cloned decentraland site, phishing for ETH post ICO. - decentraland.pro",
+    "comment": "Cloned decentraland site, phishing for VAP post ICO. - decentraland.pro",
     "date": "2017-08-18"
   },
   {
@@ -3187,7 +3187,7 @@
   },
   {
     "address": "0xf0a924661b0263e5ce12756d07f45b8668c53380",
-    "comment": "Ziber.io original contract address, called suicide after about 1000eth",
+    "comment": "Ziber.io original contract address, called suicide after about 1000vap",
     "date": "2017-07-28"
   },
   {
@@ -3447,7 +3447,7 @@
   },
   {
     "address": "0x66817272D39Da7fd4C552F430fC0B694e357c157",
-    "comment": "Comments on Etherscan are reporting funds being stolen and ending up at this address.",
+    "comment": "Comments on Vaporscan are reporting funds being stolen and ending up at this address.",
     "date": "2017-07-19"
   },
   {

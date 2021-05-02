@@ -1,9 +1,9 @@
 {
   "symbol": "MINING",
   "name": "MINING",
-  "type": "ERC20",
+  "type": "VRC20",
   "address": "0x991e7fe4b05f2b3db1d788e705963f5d647b0044",
-  "ens_address": "",
+  "vns_address": "",
   "decimals": 18,
   "website": "",
   "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },

@@ -1,9 +1,9 @@
 {
   "symbol": "RICKS",
   "name": "RICKS",
-  "type": "ERC20",
+  "type": "VRC20",
   "address": "0x5e1715bb79805bd672729760b3f7f34d6f485098",
-  "ens_address": "",
+  "vns_address": "",
   "decimals": 8,
   "website": "",
   "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },

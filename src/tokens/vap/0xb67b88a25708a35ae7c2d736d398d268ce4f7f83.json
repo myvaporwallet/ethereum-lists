@@ -1,0 +1,26 @@
+{
+  "symbol": "EMON",
+  "name": "Vaporemon",
+  "type": "VRC20",
+  "address": "0xb67b88a25708a35ae7c2d736d398d268ce4f7f83",
+  "vns_address": "",
+  "decimals": 8,
+  "website": "https://www.vaporemon.com/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "contact@vaporemon.com", "url": "" },
+  "social": {
+    "blog": "https://medium.com/@myvaporemon",
+    "chat": "",
+    "facebook": "https://www.facebook.com/vaporemon/",
+    "forum": "",
+    "github": "https://github.com/vaporemon/smartcontract",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/vaporemon/",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/myvaporemon",
+    "youtube": ""
+  }
+}

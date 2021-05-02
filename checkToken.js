@@ -1,6 +1,6 @@
 const fs = require('fs');
 const tokensDirectory = './src/tokens';
-const web3 = require('web3');
+const web3 = require('@vapory/web3');
 const path = require('path');
 const validate = require('validate.js');
 const validateObject = require('./validateObject');
@@ -30,7 +30,7 @@ const constraints = {
       length: { is: 42 }
     };
   },
-  ens_address: {
+  vns_address: {
     presence: true
   },
   decimals: {

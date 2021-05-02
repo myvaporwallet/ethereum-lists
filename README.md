@@ -1,8 +1,8 @@
-# Ethereum-lists
+# Vapory-lists
 
-[![Travis (.org)](https://img.shields.io/travis/MyEtherWallet/ethereum-lists.svg)](https://travis-ci.org/MyEtherWallet/ethereum-lists)
-[![GitHub](https://img.shields.io/github/license/MyEtherWallet/ethereum-lists.svg)](https://github.com/MyEtherWallet/ethereum-lists/)
-[![GitHub contributors](https://img.shields.io/github/contributors/MyEtherWallet/ethereum-lists.svg)](https://github.com/MyEtherWallet/ethereum-lists)
+[![Travis (.org)](https://img.shields.io/travis/MyVaporWallet/vapory-lists.svg)](https://travis-ci.org/MyVaporWallet/vapory-lists)
+[![GitHub](https://img.shields.io/github/license/MyVaporWallet/vapory-lists.svg)](https://github.com/MyVaporWallet/vapory-lists/)
+[![GitHub contributors](https://img.shields.io/github/contributors/MyVaporWallet/vapory-lists.svg)](https://github.com/MyVaporWallet/vapory-lists)
 
 A repository for maintaining lists of things like malicious URLs, fake token addresses, and so forth. We love lists.
 
@@ -14,10 +14,10 @@ Everyone is encouraged to make a PR or issue to add an address or URL to the lis
 
 2. Navigate to the `src` folder and pick which one you'd like to add:
 
-   - `addresses` folder is for the darklisting or whitelisting ethereum addresses
+   - `addresses` folder is for the darklisting or whitelisting vapory addresses
    - `contracts` folder is for the different network contracts
    - `tokens` folder is for the different network tokens
-   - `urls` folder is for the darklisting or whitelisting ethereum urls
+   - `urls` folder is for the darklisting or whitelisting vapory urls
 
    1. For urls or addresses:
 
@@ -34,7 +34,7 @@ Everyone is encouraged to make a PR or issue to add an address or URL to the lis
         **c.** Some add'l notes on specific files are below. Please skim if you don't know what the fields are.
 
       - Scroll to the bottom. under "Commit changes" enter a reason you are making this change.
-        - Example: _"Adding myetherscam.com to darklist. See [link to tweet / reddit post / screenshot]."_
+        - Example: _"Adding myvaporscam.com to darklist. See [link to tweet / reddit post / screenshot]."_
         - You can also provide more details in the box below. Please provide as much detail / evidence as reasonable so reviewers can verify quickly.
 
 
@@ -52,7 +52,7 @@ Everyone is encouraged to make a PR or issue to add an address or URL to the lis
 
           **a.** Click create new file on the upper right side of the screen.
 
-          **b.** Name your file with the ethereum address with a `.json` extension. e.g:  `0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D.json`
+          **b.** Name your file with the vapory address with a `.json` extension. e.g:  `0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D.json`
 
           **c.** Some add'l notes on specific files are below. Please skim if you don't know what the fields are.
       - If you would like to make a correction or remove an item:
@@ -61,7 +61,7 @@ Everyone is encouraged to make a PR or issue to add an address or URL to the lis
         **b.** Click the pencil to edit or the trash can to delete.
           - When editing, update the relevant information.
       -  Scroll to the bottom. under "Commit changes" enter a reason you are making this change.
-      -	Example: _"Adding myetherscam.com to darklist. See [link to tweet / reddit post / screenshot]."_
+      -	Example: _"Adding myvaporscam.com to darklist. See [link to tweet / reddit post / screenshot]."_
       - You can also provide more details in the box below. Please provide as much detail / evidence as reasonable so reviewers can verify quickly.
 
 
@@ -79,7 +79,7 @@ Everyone is encouraged to make a PR or issue to add an address or URL to the lis
 
 - **Purpose**: A list of addresses that deserve to be accompanied by a warning.
 - **Example**:
-  - Fake twitter handle ShiftShape is DMing telling people to send ETH to `0x1234...` for discount.
+  - Fake twitter handle ShiftShape is DMing telling people to send VAP to `0x1234...` for discount.
   - VitalikBooty DMs you a link telling you to enter your private key in order to 2FA your wallet.
 - **Not for:**
   - Tracking addresses of phishers or scammers.
@@ -106,9 +106,9 @@ _Best if you use github account that is part of token team or tweet or email us 
 - **Purpose**:
   - A list of URLs known to be fake, malicious, phishing.
 - **Example**:
-  - `myetherphish[.]com`
+  - `myvaporphish[.]com`
 - **Not for:**
-  - Opinions on whether a project / token sale is a bad project.
+  - Opinions on whvapor a project / token sale is a bad project.
 
 ## URL Lightlist
 
@@ -118,7 +118,7 @@ _Best if you use github account that is part of token team or tweet or email us 
   - A list URLs that are caught by the Levenshtein algorithm above or are known to be the "legitimate" URLs.
   - Usually are added if a URL is added to the above.
 - **Example**:
-  - `myetherwallet.com`
+  - `myvaporwallet.com`
 - **Not for:**
   - Promoting your social media shit.
 
@@ -129,11 +129,11 @@ ABIs associated with contract addresses.
 ##### Information (all optional except for name, symbol, address, decimals):
 
 - `name`: Contract name
-- `address`: Ethereum (or other chain) address of a contract.
+- `address`: Vapory (or other chain) address of a contract.
 - `comment`: Any notes or comment about the contract
 - `abi`: The contract abi
 
-Please make sure that you name the files by its address. You can see examples [here](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/contracts): https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens
+Please make sure that you name the files by its address. You can see examples [here](https://github.com/MyVaporWallet/vapory-lists/tree/master/src/contracts): https://github.com/MyVaporWallet/vapory-lists/tree/master/src/tokens
 
 ## Tokens
 
@@ -143,17 +143,17 @@ Information related to tokens. ERC-20 compliant only (For now).
 
 - `symbol`: Short ticker style symbol of token.
 - `name`: Token name.
-- `address`: Ethereum (or other chain) address of ERC-20 token.
+- `address`: Vapory (or other chain) address of ERC-20 token.
 - `decimal`: The decimals of the token.
 - `logo`: An optional logo of your token. Must be a **square** (recommended: 128x128) PNG w/ transparent background. Please compress using https://tinypng.com/
 - `support`: A support email, support URL, or other way people can get assistance regarding the token.
 - `social`: Where details about the token is
 
-Please make sure that you name the files by its address. You can see examples [here](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens): https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens
+Please make sure that you name the files by its address. You can see examples [here](https://github.com/MyVaporWallet/vapory-lists/tree/master/src/tokens): https://github.com/MyVaporWallet/vapory-lists/tree/master/src/tokens
 
 #### Development
 
-on terminal, run: `git clone git@github.com:MyEtherWallet/ethereum-lists.git; cd ethereum-lists`  
+on terminal, run: `git clone git@github.com:MyVaporWallet/vapory-lists.git; cd vapory-lists`  
 and then run: `npm run compile; npm run test:checkToken; npm run test:checkContract; npm run lint` to compile
 
 #### A last note

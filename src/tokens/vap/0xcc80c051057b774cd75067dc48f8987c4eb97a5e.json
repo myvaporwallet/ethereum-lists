@@ -1,0 +1,26 @@
+{
+  "symbol": "NEC",
+  "name": "Vapfinex Nectar Token",
+  "type": "VRC20",
+  "address": "0xcc80c051057b774cd75067dc48f8987c4eb97a5e",
+  "vns_address": "",
+  "decimals": 18,
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "symbol": "LINK Platform",
+  "name": "Link Platform",
+  "type": "VRC20",
+  "address": "0xe2e6d4be086c6938b53b22144855eef674281639",
+  "vns_address": "",
+  "decimals": 18,
+  "website": "https://vapory.link",
+  "logo": {
+    "src": "https://vaporscan.com/token/images/linkplatform28.png",
+    "width": 28,
+    "height": 28,
+    "ipfs_hash": ""
+  },
+  "support": { "email": "support@vapory.link", "url": "" },
+  "social": {
+    "blog": "https://www.medium.com/@vaplink",
+    "chat": "",
+    "facebook": "https://www.facebook.com/vaporylink",
+    "forum": "",
+    "github": "https://github.com/vaplink",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://vapory.link/invite.php",
+    "telegram": "",
+    "twitter": "https://www.twitter.com/linkplatform",
+    "youtube": ""
+  }
+}

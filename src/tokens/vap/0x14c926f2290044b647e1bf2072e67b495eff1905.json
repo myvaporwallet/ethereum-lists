@@ -1,0 +1,31 @@
+{
+  "symbol": "BVAPOR",
+  "name": "Bvapory",
+  "type": "VRC20",
+  "address": "0x14C926F2290044B647e1Bf2072e67B495eff1905",
+  "vns_address": "",
+  "decimals": 18,
+  "website": "https://www.bvapory.com/",
+  "logo": {
+    "src": "https://image.ibb.co/jPRLCx/icon_default_1.png",
+    "width": 250,
+    "height": 250,
+    "ipfs_hash": ""
+  },
+  "support": { "email": "team@bvapory.com", "url": "" },
+  "social": {
+    "blog": "https://medium.com/bvapory",
+    "chat": "",
+    "facebook": "https://www.facebook.com/bvaporyproject/",
+    "forum": "https://bitcointalk.org/index.php?topic=2898723.0",
+    "github": "https://github.com/bvaporyproject",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/bvapory/",
+    "linkedin": "https://www.linkedin.com/company/bvapory/",
+    "reddit": "https://www.reddit.com/r/bvapory",
+    "slack": "",
+    "telegram": "https://t.me/bvapory",
+    "twitter": "https://twitter.com/bvaporyteam",
+    "youtube": "https://www.youtube.com/channel/UCECoUw0v3gsAFULCVD7YSmA"
+  }
+}
